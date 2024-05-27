@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Schedule</title> 
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="grid-container">
+    <div class="grid-item item1">TIME</div>
+    <div class="grid-item item2">MONDAY</div>
+    <div class="grid-item item3">TUESDAY</div>
+    <div class="grid-item item4">WEDNESDAY</div>
+    <div class="grid-item item5">THURSDAY</div>
+    <div class="grid-item item6">FRIDAY</div>
+    <div class="grid-item item7">8:00-9:00</div>
+    <div class="grid-item item8">IT 208 BSIT-2C</div>
+    <div class="grid-item item9">IT 212 BSIT-2C</div>
+    <div class="grid-item item10">IT 212 BSIT-2C</div>
+    <div class="grid-item item11">IT PROF ELEC 2 BSIT 3A</div>
+    <div class="grid-item item12">IT 212 BSIT 2A</div>
+    <div class="grid-item item13">9:00-10:00</div>
+    <div class="grid-item item14">Research Work</div>
+    <div class="grid-item item15">IT 208 BSIT-2B</div>
+    <div class="grid-item item16">10:00-11:00</div>
+    <div class="grid-item item17">11:00-12:00</div>
+    <div class="grid-item item18">NOON BREAK</div>
+    <div class="grid-item item19">12:00-1:00</div>
+    <div class="grid-item item20">1:00-2:00</div>
+    <div class="grid-item item21">Consultancy</div>
+    <div class="grid-item item22">IT 208 BSIT 2B</div>
+    <div class="grid-item item23">IT PROF ELEC 1 BSIT 3A</div>
+    <div class="grid-item item24">IT 212 BSIT-2B</div>
+    <div class="grid-item item25">IT 112 BSIT-2A</div>
+    <div class="grid-item item26">IT PROF ELEC 1</div>
+
+</html>
+
+
+.grid-container {
+    display:grid;
+    grid-template-columns: 50px auto auto auto auto auto ;
+    background-color:aquamarine;
+    padding: 10px;
+
+    /*column-gap: 20px;
+    row-gap: 50px;*/
+}
+   
+
+
+.grid-item {
+    background-color: aliceblue;
+    border: 1px solid;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+ .item1 {
+    grid-column-start: ;
+ }

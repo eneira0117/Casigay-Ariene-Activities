@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FACEBOOK</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="fixed">
+        <h1>KILOGRAM</h1>
+    </div>
+    <div class="home">
+        <h2>HOME</h2>
+    </div>
+    <div class="search">
+        <h2>SEARCH</h2>
+    </div>
+    <div class="explore">
+        <h2>EXPLORE</h2>
+    </div>
+    <div class="reels">
+        <h2>REELS</h2>
+    </div>
+    <div class="messages">
+        <h2>MESSAGES</h2>
+    </div>
+
+    <div class="relative">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/ass.png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic2">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (2).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+    
+    <div class="pic3">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (3).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic4">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (4).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic5">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (5).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic6">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (9).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic7">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (10).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic8">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (11).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic9">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (12).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+
+    <div class="pic10">
+        <h2>yessah_17</h2>
+        <center>
+            <img src="image/Screenshot (13).png">
+        </center>
+        <p>yessah_17 my life</p>
+    </div>
+</body>
+</html>

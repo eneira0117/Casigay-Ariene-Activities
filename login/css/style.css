@@ -1,0 +1,35 @@
+body{
+    font-family: Arial,sans-serif;
+    background-color: aqua;
+    margin: 50px;
+    padding: 30px;
+    color:black;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0 0 60px rgb(0, 0, 0.5);
+    height: 60vh;
+   
+}
+h1 {
+    font-size: 30px;
+    color: rgb(255, 0, 212);
+}
+
+label {
+    background-color: rgb(43, 128, 226);
+}
+
+#userLabel {
+    font-size: 20px;
+}
+
+#passLabel {
+    font-size: 20px;
+}
+
+.labelClass{
+    color: yellowgreen;
+}
+.buttonClass{
+    color:blue;
+}
