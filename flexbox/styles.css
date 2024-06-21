@@ -45,7 +45,7 @@ button {
 }
 
 button:hover {
-    background-color: skyblue;
+    background-color: rgb(235, 135, 160);
 }
 
 .operator {
@@ -62,3 +62,4 @@ button:hover {
     background-color: #f44336;
     color: #fff;
 }
+
